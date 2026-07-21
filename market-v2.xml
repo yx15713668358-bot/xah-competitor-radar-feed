@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>讯安汇竞品雷达｜价格与平台</title>
     <link>https://yx15713668358-bot.github.io/xah-competitor-radar-feed</link>
+    <atom:link href="https://yx15713668358-bot.github.io/xah-competitor-radar-feed/market-v2.xml" rel="self" type="application/rss+xml" />
     <description>京东、西域、震坤行及其他平台的具体商品、价格和配置参考。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:37:08 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>梅特勒托利多 电子台秤 ,BBA211-5CA150 最大秤量 150kg,精度:50g,电池另购 售卖规格:1个【多少钱 规格参数 图片 采购】-西域</title>
