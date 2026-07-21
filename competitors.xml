@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>讯安汇竞品雷达｜官网与产品</title>
+    <title>讯安汇竞品雷达｜竞品与行业</title>
     <link>https://yx15713668358-bot.github.io/xah-competitor-radar-feed</link>
     <atom:link href="https://yx15713668358-bot.github.io/xah-competitor-radar-feed/competitors.xml" rel="self" type="application/rss+xml" />
-    <description>竞品官网、新品、型号、软件、ODM及海外品牌动态。</description>
+    <description>国内竞品、行业产品、软件和传统秤厂家合作线索。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:04:07 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>竞品｜江苏巨天</title>
+      <link>http://www.jt-sky.com</link>
+      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
+      <pubDate>Tue, 21 Jul 2026 12:03:59 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜江苏巨天</category>
+    </item>
     <item>
       <title>智能ai识别电子秤</title>
       <link>https://b2bwiki.baidu.com/encyclopedic/smart-ai-recognition-electronic-scale</link>
       <guid isPermaLink="false">v2:b2bwiki.baidu.com:智能ai识别电子秤</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:25 +0800</pubDate>
-      <description>来源：百度爱采购&lt;br&gt;发现方式：主动搜索｜产品｜AI识别电子秤&lt;br&gt;价格：2000元&lt;br&gt;配置：ai识别&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：百度爱采购&lt;br&gt;发现方式：主动搜索｜产品｜AI识别电子秤&lt;br&gt;价格：2000元&lt;br&gt;配置：ai识别&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜AI识别电子秤</category>
     </item>
     <item>
@@ -21,15 +29,7 @@
       <link>https://www.guanmai.cn/os/27240</link>
       <guid isPermaLink="false">v2:guanmai.cn:生鲜智能电子秤分拣系统</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:25 +0800</pubDate>
-      <description>来源：观麦&lt;br&gt;发现方式：主动搜索｜产品｜AI识别电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：摄像头｜AI识别&lt;br&gt;状态：待审核</description>
-      <category>主动搜索｜产品｜AI识别电子秤</category>
-    </item>
-    <item>
-      <title>视觉识别收银秤和AI视觉菜品识别结算台，减轻人力成本 - 广东天波</title>
-      <link>https://xls.telpo.cn/industry-news/361</link>
-      <guid isPermaLink="false">v2:xls.telpo.cn:视觉识别收银秤和ai视觉菜品识别结算台减轻人力成本广东天波</guid>
-      <pubDate>Tue, 21 Jul 2026 10:41:25 +0800</pubDate>
-      <description>来源：xls.telpo.cn&lt;br&gt;发现方式：主动搜索｜产品｜AI识别电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：AI识别&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：观麦&lt;br&gt;发现方式：主动搜索｜产品｜AI识别电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：摄像头｜AI识别&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜AI识别电子秤</category>
     </item>
     <item>
@@ -37,7 +37,7 @@
       <link>https://m.511130.com/product/610.html</link>
       <guid isPermaLink="false">v2:m.511130.com:追溯秤价格公司厂家凯发旗舰</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:24 +0800</pubDate>
-      <description>来源：m.511130.com&lt;br&gt;发现方式：主动搜索｜产品｜智能溯源秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜溯源&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：m.511130.com&lt;br&gt;发现方式：主动搜索｜产品｜智能溯源秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜溯源&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜智能溯源秤</category>
     </item>
     <item>
@@ -45,7 +45,7 @@
       <link>https://b2bwiki.baidu.com/encyclopedic/cafeteria-and-school-electronic-scale</link>
       <guid isPermaLink="false">v2:b2bwiki.baidu.com:食堂学校电子秤</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:23 +0800</pubDate>
-      <description>来源：百度爱采购&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：150kg｜摄像头｜溯源&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：百度爱采购&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：150kg｜摄像头｜溯源&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜智能收货秤</category>
     </item>
     <item>
@@ -53,7 +53,7 @@
       <link>http://www.jbscz.com/Products-39017985.html</link>
       <guid isPermaLink="false">v2:jbscz.com:智能收货秤金博仕苏州生物技术有限公司防爆秤</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:23 +0800</pubDate>
-      <description>来源：jbscz.com&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：扫码｜摄像头｜打印机&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：jbscz.com&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：扫码｜摄像头｜打印机&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜智能收货秤</category>
     </item>
     <item>
@@ -61,7 +61,7 @@
       <link>https://m.ybzhan.cn/st163986/product_15844858.html</link>
       <guid isPermaLink="false">v2:m.ybzhan.cn:yjhaiai识别电子台秤可摄像头拍照智能收货秤</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:23 +0800</pubDate>
-      <description>来源：m.ybzhan.cn&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：AI识别｜摄像头&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：m.ybzhan.cn&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：AI识别｜摄像头&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜智能收货秤</category>
     </item>
     <item>
@@ -69,64 +69,8 @@
       <link>http://www.pos580.com/news/show.php?itemid=49970</link>
       <guid isPermaLink="false">v2:product:49970</guid>
       <pubDate>Tue, 21 Jul 2026 10:41:22 +0800</pubDate>
-      <description>来源：POS行业网&lt;br&gt;发现方式：主动搜索｜产品｜进销存电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜摄像头&lt;br&gt;状态：待审核</description>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：POS行业网&lt;br&gt;发现方式：主动搜索｜产品｜进销存电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜摄像头&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜进销存电子秤</category>
-    </item>
-    <item>
-      <title>竞品｜江苏巨天</title>
-      <link>http://www.jt-sky.com</link>
-      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
-      <pubDate>Tue, 21 Jul 2026 09:30:07 +0800</pubDate>
-      <description>来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>官网变化｜江苏巨天</category>
-    </item>
-    <item>
-      <title>海外｜METTLER TOLEDO Retail</title>
-      <link>https://www.mt.com/us/en/home/products/retail-weighing-scales.html</link>
-      <guid isPermaLink="false">v2:mt.com:海外mettlertoledoretail</guid>
-      <pubDate>Tue, 21 Jul 2026 09:30:07 +0800</pubDate>
-      <description>来源：METTLER TOLEDO Retail&lt;br&gt;发现方式：官网变化｜METTLER TOLEDO Retail&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>官网变化｜METTLER TOLEDO Retail</category>
-    </item>
-    <item>
-      <title>CAS|Electronic Scale-SMART TRAY</title>
-      <link>http://www.globalcas.com/integration/read.jsp?no=1216</link>
-      <guid isPermaLink="false">v2:globalcas.com:caselectronicscalesmarttray</guid>
-      <pubDate>Tue, 21 Jul 2026 01:05:28 +0800</pubDate>
-      <description>来源：CAS&lt;br&gt;发现方式：海外品牌｜CAS&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>海外品牌｜CAS</category>
-    </item>
-    <item>
-      <title>CAS|Electronic Scale-CL7200</title>
-      <link>http://www.globalcas.com/integration/read.jsp?no=20</link>
-      <guid isPermaLink="false">v2:model:CL7200</guid>
-      <pubDate>Tue, 21 Jul 2026 01:05:28 +0800</pubDate>
-      <description>来源：CAS&lt;br&gt;发现方式：海外品牌｜CAS&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>海外品牌｜CAS</category>
-    </item>
-    <item>
-      <title>CAS|Electronic Scale-PDS-II</title>
-      <link>http://www.globalcas.com/integration/read.jsp?no=547</link>
-      <guid isPermaLink="false">v2:globalcas.com:caselectronicscalepdsii</guid>
-      <pubDate>Tue, 21 Jul 2026 01:05:28 +0800</pubDate>
-      <description>来源：CAS&lt;br&gt;发现方式：海外品牌｜CAS&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>海外品牌｜CAS</category>
-    </item>
-    <item>
-      <title>PC scale KH II 400 Pro</title>
-      <link>https://www.bizerba.com/us/en/products/kh_ii_400_pro</link>
-      <guid isPermaLink="false">v2:model:II400</guid>
-      <pubDate>Tue, 21 Jul 2026 01:05:22 +0800</pubDate>
-      <description>来源：Bizerba&lt;br&gt;发现方式：海外品牌｜Bizerba&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>海外品牌｜Bizerba</category>
-    </item>
-    <item>
-      <title>Just get started. With your new retail scale Q1.</title>
-      <link>https://www.bizerba.com/int/en/dg/retail-scale-q1</link>
-      <guid isPermaLink="false">v2:bizerba.com:justgetstartedwithyournewretailscaleq1</guid>
-      <pubDate>Tue, 21 Jul 2026 01:05:22 +0800</pubDate>
-      <description>来源：Bizerba&lt;br&gt;发现方式：海外品牌｜Bizerba&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>海外品牌｜Bizerba</category>
     </item>
   </channel>
 </rss>
