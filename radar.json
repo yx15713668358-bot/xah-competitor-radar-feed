@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:17:26+08:00",
+  "generated_at": "2026-07-21T13:18:21+08:00",
   "items": [
-    {
-      "id": "baiqiang.cn:电子台秤品牌列表",
-      "group": "传统秤厂家合作",
-      "source_type": "传统秤厂家公开线索",
-      "found_at": "2026-07-21T13:14:34+08:00",
-      "date": "2026-07-21",
-      "title": "电子台秤品牌列表",
-      "source": "baiqiang.cn",
-      "keyword": "主动搜索｜合作｜电子台秤经销商",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "https://www.baiqiang.cn/pinpai/dianzitaicheng.html",
-      "relation": "新发现",
-      "status": "待审核"
-    },
     {
       "id": "022dzc.com:电子台秤",
       "group": "传统秤厂家合作",
@@ -43,36 +28,6 @@
       "price": "需确认",
       "config": "需确认",
       "url": "https://www.yingling021.com",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "item.szlcsc.com:英衡yh电子秤商用公斤秤高精度台秤工业电子称精准计数",
-      "group": "传统秤厂家合作",
-      "source_type": "传统秤厂家公开线索",
-      "found_at": "2026-07-21T13:14:31+08:00",
-      "date": "2026-07-21",
-      "title": "英衡/YH 电子秤商用公斤秤高精度台秤工业电子称精准计数 ...",
-      "source": "item.szlcsc.com",
-      "keyword": "主动搜索｜合作｜传统衡器生产厂家",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "https://item.szlcsc.com/mro/43220512.html",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "e-bidding.org:德州市高精度工业电子秤与电子台秤直销厂家甄选与行业深度洞察",
-      "group": "传统秤厂家合作",
-      "source_type": "传统秤厂家公开线索",
-      "found_at": "2026-07-21T13:14:29+08:00",
-      "date": "2026-07-21",
-      "title": "德州市高精度工业电子秤与电子台秤直销厂家甄选与行业深度洞察",
-      "source": "e-bidding.org",
-      "keyword": "主动搜索｜合作｜传统台秤厂商",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "http://www.e-bidding.org/shangxun/Article-AmKkTI-829.html",
       "relation": "新发现",
       "status": "待审核"
     },
