@@ -5,33 +5,65 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>讯安汇竞品雷达</title>
   <style>
-    *{box-sizing:border-box}body{max-width:1080px;margin:52px auto;padding:0 24px;font:15px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;color:#17324d;background:#f4f7fa}
-    h1{font-size:30px;margin-bottom:6px}.note{color:#66788a;margin-bottom:24px}.guide{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}.pill{background:#e7f1fa;color:#245b88;border:1px solid #cddfec;border-radius:999px;padding:6px 12px;font-size:13px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.card{background:#fff;border:1px solid #dce6ef;border-radius:14px;padding:22px;box-shadow:0 8px 26px rgba(25,65,100,.06)}h2{font-size:18px;margin:0 0 14px}.item{padding:13px 0;border-top:1px solid #edf2f6}.item:first-of-type{border-top:0}.item a{color:#1769aa;text-decoration:none;font-weight:600}.meta{font-size:12px;color:#7a8b9c;margin-top:4px}.detail{font-size:12px;color:#53687a;margin-top:4px}.feed-link{display:inline-block;margin-top:12px;color:#60778c;font-size:13px}@media(max-width:760px){.grid{grid-template-columns:1fr}}
+    :root{--ink:#153753;--blue:#1769aa;--blue-soft:#eaf3fa;--line:#d9e5ee;--muted:#63788b;--bg:#f4f7fa;--card:#fff}
+    *{box-sizing:border-box}body{max-width:1180px;margin:44px auto;padding:0 24px 56px;font:14px/1.65 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg)}
+    h1{font-size:32px;letter-spacing:.02em;margin:0 0 6px}.note{color:var(--muted);margin:0 0 22px}.top{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:18px}.updated{font-size:12px;color:#8191a0;white-space:nowrap}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}.tab{appearance:none;border:1px solid var(--line);background:#fff;color:#4b6579;border-radius:99px;padding:8px 14px;cursor:pointer;font:inherit}.tab.active{border-color:var(--blue);background:var(--blue);color:#fff}
+    .tools{display:grid;grid-template-columns:minmax(220px,2fr) 1fr 1fr;gap:10px;padding:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 6px 20px rgba(23,63,92,.05)}
+    input,select{min-width:0;width:100%;border:1px solid #cbd9e5;border-radius:8px;padding:9px 10px;background:#fff;color:var(--ink);font:inherit;outline:none}input:focus,select:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(23,105,170,.12)}
+    .summary{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:18px 0 12px;color:var(--muted);font-size:13px}.count{font-weight:700;color:var(--blue)}.hint{background:var(--blue-soft);border-radius:99px;padding:3px 9px;color:#3e6683}
+    .list{display:grid;gap:10px}.item{display:grid;grid-template-columns:1fr auto;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;box-shadow:0 5px 16px rgba(23,63,92,.035)}.title{color:#1769aa;text-decoration:none;font-size:16px;font-weight:700}.title:hover{text-decoration:underline}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}.tag{font-size:12px;border-radius:6px;padding:2px 7px;background:#eef4f8;color:#4b667a}.tag.group{background:#e6f1fb;color:#1d608f}.tag.coop{background:#edf5e8;color:#4b7651}.detail{font-size:12px;color:var(--muted);margin-top:8px}.date{font-size:12px;color:#8191a0;white-space:nowrap;padding-top:3px}.empty{padding:56px 20px;text-align:center;color:#7b8c9a;background:#fff;border:1px dashed #c7d6e2;border-radius:12px}.loading{padding:56px 20px;text-align:center;color:#7b8c9a}
+    @media(max-width:720px){body{margin:28px auto;padding:0 14px 32px}.top{display:block}.updated{margin-top:8px}.tools{grid-template-columns:1fr}.item{grid-template-columns:1fr}.date{padding-top:0}.title{font-size:15px}}
   </style>
 </head>
 <body>
-  <h1>讯安汇竞品雷达</h1>
-  <p class="note">每天看本页即可。有效线索在企业微信“自动发现待审核”中确认和归档。</p>
-  <div class="guide"><span class="pill">官网与产品优先</span><span class="pill">平台价格仅作参考</span><span class="pill">信息不明确：需确认</span></div>
-  <div class="grid" id="feeds"></div>
+  <div class="top">
+    <div><h1>讯安汇竞品雷达</h1><p class="note">竞品和行业信息用于学习参考；传统秤厂家信息用于筛选合作机会。有效线索在企业微信“自动发现待审核”中确认和归档。</p></div>
+    <div class="updated" id="updated"></div>
+  </div>
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-group="全部">全部</button>
+    <button class="tab" data-group="竞品/行业信息">竞品/行业信息</button>
+    <button class="tab" data-group="传统秤厂家合作">传统秤厂家合作</button>
+  </div>
+  <div class="tools">
+    <input id="search" type="search" placeholder="搜索名称、品牌、关键词、配置或价格">
+    <select id="date"><option value="">全部日期</option></select>
+    <select id="source"><option value="">全部来源类型</option></select>
+  </div>
+  <div class="summary"><span id="summary">正在加载…</span><span class="hint">海外品牌与收银秤已排除</span></div>
+  <main class="list" id="list"><div class="loading">正在读取雷达信息…</div></main>
   <script>
-    const feeds=[['competitors.xml','竞品官网、产品与海外品牌'],['market.xml','平台价格与配置']];
+    const state={items:[],group:'全部'};
+    const $=id=>document.getElementById(id);
     const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-    Promise.all(feeds.map(async ([url,name])=>{
-      const xml=await fetch(url,{cache:'no-store'}).then(r=>r.text());
-      const doc=new DOMParser().parseFromString(xml,'application/xml');
-      const all=[...doc.querySelectorAll('item')];
-      return `<section class="card"><h2>${esc(name)} · ${all.length}条</h2>${all.slice(0,15).map(item=>{
-        const title=item.querySelector('title')?.textContent||'';
-        const link=item.querySelector('link')?.textContent||'#';
-        const date=item.querySelector('pubDate')?.textContent||'';
-        const raw=item.querySelector('description')?.textContent||'';
-        const detail=raw.replace(/<br\s*\/?>/gi,' · ').replace(/<[^>]+>/g,'');
-        return `<div class="item"><a href="${esc(link)}" target="_blank" rel="noopener">${esc(title)}</a><div class="detail">${esc(detail)}</div><div class="meta">${esc(date)}</div></div>`;
-      }).join('')}<a class="feed-link" href="${url}">RSS订阅地址</a></section>`;
-    })).then(cards=>document.querySelector('#feeds').innerHTML=cards.join('')).catch(()=>{
-      document.querySelector('#feeds').textContent='内容加载失败，请稍后刷新。';
-    });
+    const timeText=v=>{const d=new Date(v);return Number.isNaN(d.getTime())?'需确认':d.toLocaleString('zh-CN',{year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});};
+    function fillFilters(){
+      const dates=[...new Set(state.items.map(x=>x.date).filter(Boolean))].sort().reverse();
+      const sources=[...new Set(state.items.map(x=>x.source_type).filter(Boolean))].sort();
+      $('date').insertAdjacentHTML('beforeend',dates.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join(''));
+      $('source').insertAdjacentHTML('beforeend',sources.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join(''));
+    }
+    function filtered(){
+      const query=$('search').value.trim().toLowerCase(), date=$('date').value, source=$('source').value;
+      return state.items.filter(x=>{
+        const hay=[x.title,x.source,x.keyword,x.config,x.price,x.relation].join(' ').toLowerCase();
+        return (!query||hay.includes(query))&&(!date||x.date===date)&&(!source||x.source_type===source)&&(state.group==='全部'||x.group===state.group);
+      });
+    }
+    function render(){
+      const items=filtered();
+      $('summary').innerHTML=`当前显示 <span class="count">${items.length}</span> 条｜总计 ${state.items.length} 条`;
+      if(!items.length){$('list').innerHTML='<div class="empty">没有符合条件的信息。可清空搜索词或调整筛选条件。</div>';return;}
+      $('list').innerHTML=items.map(x=>{
+        const coop=x.group==='传统秤厂家合作';
+        const detail=[`来源：${x.source||'需确认'}`,`价格：${x.price||'需确认'}`,`配置：${x.config||'需确认'}`].join('｜');
+        return `<article class="item"><div><a class="title" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a><div class="meta"><span class="tag ${coop?'coop':'group'}">${esc(x.group)}</span><span class="tag">${esc(x.source_type)}</span><span class="tag">${esc(x.keyword)}</span>${x.relation?`<span class="tag">${esc(x.relation)}</span>`:''}</div><div class="detail">${esc(detail)}</div></div><time class="date">${esc(timeText(x.found_at))}</time></article>`;
+      }).join('');
+    }
+    $('tabs').addEventListener('click',e=>{const button=e.target.closest('button[data-group]');if(!button)return;state.group=button.dataset.group;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x===button));render();});
+    ['search','date','source'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));
+    fetch('radar.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('加载失败');return r.json();}).then(data=>{state.items=(data.items||[]).sort((a,b)=>String(b.found_at).localeCompare(String(a.found_at)));$('updated').textContent=`数据更新：${timeText(data.generated_at)}`;fillFilters();render();}).catch(()=>{$('list').innerHTML='<div class="empty">内容加载失败，请稍后刷新。</div>';$('summary').textContent='';});
   </script>
 </body>
 </html>
