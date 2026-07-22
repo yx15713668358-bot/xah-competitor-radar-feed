@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-07-21T13:18:21+08:00",
+  "generated_at": "2026-07-22T09:30:05+08:00",
   "items": [
+    {
+      "id": "jt-sky.com:竞品江苏巨天",
+      "group": "竞品/行业信息",
+      "source_type": "官网变化",
+      "found_at": "2026-07-22T09:30:04+08:00",
+      "date": "2026-07-22",
+      "title": "竞品｜江苏巨天",
+      "source": "厂商官网｜jt-sky.com",
+      "keyword": "官网变化｜江苏巨天",
+      "price": "需确认",
+      "config": "需确认",
+      "url": "http://www.jt-sky.com",
+      "relation": "疑似已有竞品",
+      "status": "待审核"
+    },
     {
       "id": "022dzc.com:电子台秤",
       "group": "传统秤厂家合作",
@@ -149,21 +164,6 @@
       "config": "进销存｜摄像头",
       "url": "http://www.pos580.com/news/show.php?itemid=49970",
       "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "jt-sky.com:竞品江苏巨天",
-      "group": "竞品/行业信息",
-      "source_type": "官网变化",
-      "found_at": "2026-07-21T12:03:59+08:00",
-      "date": "2026-07-21",
-      "title": "竞品｜江苏巨天",
-      "source": "厂商官网｜jt-sky.com",
-      "keyword": "官网变化｜江苏巨天",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "http://www.jt-sky.com",
-      "relation": "疑似已有竞品",
       "status": "待审核"
     },
     {
