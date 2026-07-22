@@ -6,8 +6,16 @@
     <atom:link href="https://yx15713668358-bot.github.io/xah-competitor-radar-feed/competitors-v2.xml" rel="self" type="application/rss+xml" />
     <description>国内竞品、行业产品、软件和传统秤厂家合作线索。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 05:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:30:05 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>竞品｜江苏巨天</title>
+      <link>http://www.jt-sky.com</link>
+      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
+      <pubDate>Wed, 22 Jul 2026 09:30:04 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜江苏巨天</category>
+    </item>
     <item>
       <title>电子台秤</title>
       <link>https://www.022dzc.com/product/list-7.html</link>
@@ -87,14 +95,6 @@
       <pubDate>Tue, 21 Jul 2026 13:14:17 +0800</pubDate>
       <description>类别：竞品/行业信息&lt;br&gt;来源：POS行业网&lt;br&gt;发现方式：主动搜索｜产品｜进销存电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜摄像头&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜进销存电子秤</category>
-    </item>
-    <item>
-      <title>竞品｜江苏巨天</title>
-      <link>http://www.jt-sky.com</link>
-      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
-      <pubDate>Tue, 21 Jul 2026 12:03:59 +0800</pubDate>
-      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>官网变化｜江苏巨天</category>
     </item>
   </channel>
 </rss>
