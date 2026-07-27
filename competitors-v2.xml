@@ -6,8 +6,32 @@
     <atom:link href="https://yx15713668358-bot.github.io/xah-competitor-radar-feed/competitors-v2.xml" rel="self" type="application/rss+xml" />
     <description>国内竞品、行业产品、软件和传统秤厂家合作线索。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Jul 2026 01:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:30:01 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>竞品｜江苏巨天</title>
+      <link>http://www.jt-sky.com</link>
+      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
+      <pubDate>Mon, 27 Jul 2026 09:30:01 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜江苏巨天</category>
+    </item>
+    <item>
+      <title>竞品｜首衡智能秤系列</title>
+      <link>http://www.shouheng.com.cn/prolist_192.html</link>
+      <guid isPermaLink="false">v2:shouheng.com.cn:竞品首衡智能秤系列</guid>
+      <pubDate>Mon, 27 Jul 2026 09:30:01 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜shouheng.com.cn&lt;br&gt;发现方式：官网变化｜首衡智能秤系列&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜首衡智能秤系列</category>
+    </item>
+    <item>
+      <title>竞品｜苏州煜景</title>
+      <link>http://www.szyjhscales.com</link>
+      <guid isPermaLink="false">v2:szyjhscales.com:竞品苏州煜景</guid>
+      <pubDate>Mon, 27 Jul 2026 09:30:01 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜szyjhscales.com&lt;br&gt;发现方式：官网变化｜苏州煜景&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜苏州煜景</category>
+    </item>
     <item>
       <title>电子秤生产厂家和经销商产品目录_仪器设备 - 检测通</title>
       <link>https://www.testrust.com/device/list-%E7%94%B5%E5%AD%90%E7%A7%A4-3-17.html</link>
@@ -87,14 +111,6 @@
       <pubDate>Fri, 24 Jul 2026 10:00:32 +0800</pubDate>
       <description>类别：竞品/行业信息&lt;br&gt;来源：POS行业网&lt;br&gt;发现方式：主动搜索｜产品｜进销存电子秤&lt;br&gt;价格：需确认&lt;br&gt;配置：进销存｜摄像头&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜进销存电子秤</category>
-    </item>
-    <item>
-      <title>竞品｜江苏巨天</title>
-      <link>http://www.jt-sky.com</link>
-      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
-      <pubDate>Fri, 24 Jul 2026 09:30:00 +0800</pubDate>
-      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>官网变化｜江苏巨天</category>
     </item>
     <item>
       <title>智慧仓储革命：出入库智能秤如何重塑食堂供应链管理</title>
