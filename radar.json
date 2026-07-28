@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:30:05+08:00",
+  "generated_at": "2026-07-28T10:15:04+08:00",
   "items": [
     {
       "id": "jt-sky.com:竞品江苏巨天",
@@ -358,81 +358,6 @@
       "price": "需确认",
       "config": "进销存｜摄像头",
       "url": "http://www.pos580.com/news/show.php?itemid=49970",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "jd:14148226503",
-      "group": "竞品/行业信息",
-      "source_type": "平台价格参考",
-      "found_at": "2026-07-21T01:03:02+08:00",
-      "date": "2026-07-21",
-      "title": "凯丰 电子 秤 台秤计数秤 高精度 工业 点数秤计重 电子 称计重秤30kg/1g【图片价格品牌报价】- 京东",
-      "source": "京东",
-      "keyword": "平台价格｜京东｜智能电子台秤",
-      "price": "需确认",
-      "config": "30kg",
-      "url": "https://item.jd.com/14148226503.html",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "model:JDT-150",
-      "group": "竞品/行业信息",
-      "source_type": "平台价格参考",
-      "found_at": "2026-07-21T01:00:55+08:00",
-      "date": "2026-07-21",
-      "title": "ZKH /震坤行 精品 电子计数台秤 JDT-150 量程150kg 精度10g 秤盘尺寸400×500mm 1台【多少钱 规格参数 图片 采购】-震坤行",
-      "source": "震坤行",
-      "keyword": "平台价格｜震坤行｜工业衡器",
-      "price": "需确认",
-      "config": "150kg",
-      "url": "https://www.zkh.com/item/AE4262101.html",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "model:JWI-3100-300K",
-      "group": "竞品/行业信息",
-      "source_type": "平台价格参考",
-      "found_at": "2026-07-21T01:00:55+08:00",
-      "date": "2026-07-21",
-      "title": "JADEVER 电子 计重 台秤 JWI-3100-300K 最大称量300kg 最小感量20g 台面尺寸400*500mm 1台【多少钱 规格参数 图片 采购】-震坤行",
-      "source": "震坤行",
-      "keyword": "平台价格｜震坤行｜工业衡器",
-      "price": "需确认",
-      "config": "300kg",
-      "url": "https://www.zkh.com/item/QY9444.html",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "model:JWI-3000-150K",
-      "group": "竞品/行业信息",
-      "source_type": "平台价格参考",
-      "found_at": "2026-07-21T01:00:55+08:00",
-      "date": "2026-07-21",
-      "title": "JADEVER 电子 计重 台秤 JWI-3000-150K 最大称量150kg 最小感量10g 台面尺寸400*500mm 1台【多少钱规格参数图片采购】-震坤行",
-      "source": "震坤行",
-      "keyword": "平台价格｜震坤行｜工业衡器",
-      "price": "需确认",
-      "config": "150kg",
-      "url": "https://www.zkh.com/item/QY9440.html?promoteWebsiteType=baidu",
-      "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "model:JWI-700W-150K",
-      "group": "竞品/行业信息",
-      "source_type": "平台价格参考",
-      "found_at": "2026-07-21T01:00:55+08:00",
-      "date": "2026-07-21",
-      "title": "JADEVER 电子 计重 台秤 JWI-700W-150K 最大称量150kg 最小感量10g 台面尺寸400*500mm 1台【多少钱 规格参数 图片 采购】-震坤行",
-      "source": "震坤行",
-      "keyword": "平台价格｜震坤行｜工业衡器",
-      "price": "需确认",
-      "config": "150kg",
-      "url": "https://www.zkh.com/item/QY9437.html",
       "relation": "新发现",
       "status": "待审核"
     }
