@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-08-03T10:00:58+08:00",
+  "generated_at": "2026-08-04T09:30:02+08:00",
   "items": [
+    {
+      "id": "jt-sky.com:竞品江苏巨天",
+      "group": "竞品/行业信息",
+      "source_type": "官网变化",
+      "found_at": "2026-08-04T09:30:02+08:00",
+      "date": "2026-08-04",
+      "title": "竞品｜江苏巨天",
+      "source": "厂商官网｜jt-sky.com",
+      "keyword": "官网变化｜江苏巨天",
+      "price": "需确认",
+      "config": "需确认",
+      "url": "http://www.jt-sky.com",
+      "relation": "疑似已有竞品",
+      "status": "待审核"
+    },
     {
       "id": "niudunli1.cn.china.cn:电子桌秤电子台秤电子衡器常州牛顿力称重系统有限公司",
       "group": "传统秤厂家合作",
@@ -179,21 +194,6 @@
       "config": "溯源｜电池",
       "url": "http://www.scjingwei.com/h-nd-227.html",
       "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "jt-sky.com:竞品江苏巨天",
-      "group": "竞品/行业信息",
-      "source_type": "官网变化",
-      "found_at": "2026-08-03T09:30:04+08:00",
-      "date": "2026-08-03",
-      "title": "竞品｜江苏巨天",
-      "source": "厂商官网｜jt-sky.com",
-      "keyword": "官网变化｜江苏巨天",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "http://www.jt-sky.com",
-      "relation": "疑似已有竞品",
       "status": "待审核"
     },
     {
