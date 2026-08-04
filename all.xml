@@ -6,8 +6,16 @@
     <atom:link href="https://yx15713668358-bot.github.io/xah-competitor-radar-feed/all.xml" rel="self" type="application/rss+xml" />
     <description>经过筛选的国内竞品、行业、合作与平台价格线索。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Aug 2026 02:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:30:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>竞品｜江苏巨天</title>
+      <link>http://www.jt-sky.com</link>
+      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
+      <pubDate>Tue, 04 Aug 2026 09:30:02 +0800</pubDate>
+      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
+      <category>官网变化｜江苏巨天</category>
+    </item>
     <item>
       <title>电子 桌秤_ 电子台秤 _电子 衡器 - 【常州牛顿力称重系统有限 公司 】</title>
       <link>https://niudunli1.cn.china.cn</link>
@@ -103,14 +111,6 @@
       <pubDate>Mon, 03 Aug 2026 10:00:32 +0800</pubDate>
       <description>类别：竞品/行业信息&lt;br&gt;来源：scjingwei.com&lt;br&gt;发现方式：主动搜索｜产品｜智能收货秤&lt;br&gt;价格：需确认&lt;br&gt;配置：溯源｜电池&lt;br&gt;状态：待审核</description>
       <category>主动搜索｜产品｜智能收货秤</category>
-    </item>
-    <item>
-      <title>竞品｜江苏巨天</title>
-      <link>http://www.jt-sky.com</link>
-      <guid isPermaLink="false">v2:jt-sky.com:竞品江苏巨天</guid>
-      <pubDate>Mon, 03 Aug 2026 09:30:04 +0800</pubDate>
-      <description>类别：竞品/行业信息&lt;br&gt;来源：厂商官网｜jt-sky.com&lt;br&gt;发现方式：官网变化｜江苏巨天&lt;br&gt;价格：需确认&lt;br&gt;配置：需确认&lt;br&gt;状态：待审核</description>
-      <category>官网变化｜江苏巨天</category>
     </item>
     <item>
       <title>竞品｜佳力跃智能称重终端</title>
