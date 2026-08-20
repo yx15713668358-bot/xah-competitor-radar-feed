@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-08-19T10:15:00+08:00",
+  "generated_at": "2026-08-20T09:30:06+08:00",
   "items": [
+    {
+      "id": "jt-sky.com:竞品江苏巨天",
+      "group": "竞品/行业信息",
+      "source_type": "官网变化",
+      "found_at": "2026-08-20T09:30:06+08:00",
+      "date": "2026-08-20",
+      "title": "竞品｜江苏巨天",
+      "source": "厂商官网｜jt-sky.com",
+      "keyword": "官网变化｜江苏巨天",
+      "price": "需确认",
+      "config": "需确认",
+      "url": "http://www.jt-sky.com",
+      "relation": "疑似已有竞品",
+      "status": "待审核"
+    },
     {
       "id": "niudunli1.cn.china.cn:电子桌秤电子台秤电子衡器常州牛顿力称重系统有限公司",
       "group": "传统秤厂家合作",
@@ -224,21 +239,6 @@
       "config": "打印机",
       "url": "https://chinese.alibaba.com/g/digital-electronic-scale-with-label-printer-suppliers_9.html",
       "relation": "新发现",
-      "status": "待审核"
-    },
-    {
-      "id": "jt-sky.com:竞品江苏巨天",
-      "group": "竞品/行业信息",
-      "source_type": "官网变化",
-      "found_at": "2026-08-19T09:30:08+08:00",
-      "date": "2026-08-19",
-      "title": "竞品｜江苏巨天",
-      "source": "厂商官网｜jt-sky.com",
-      "keyword": "官网变化｜江苏巨天",
-      "price": "需确认",
-      "config": "需确认",
-      "url": "http://www.jt-sky.com",
-      "relation": "疑似已有竞品",
       "status": "待审核"
     },
     {
